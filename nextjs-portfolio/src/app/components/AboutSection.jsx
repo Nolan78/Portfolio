@@ -61,11 +61,11 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">A propos</h2>
           <p className="text-base lg:text-lg">
             Je suis un développeur web full stack avec une passion pour la
-            création d'applications web interactives et réactives. J'ai de
-            l'expérience de travail avec JavaScript, React, Node.js, Express, SQL Server,
-            HTML et CSS. J'apprends vite et je cherche toujours à élargir mes
-            connaissances et mes compétences. Je suis un joueur d'équipe et je
-            suis ravi de travailler avec d'autres pour créer des applications
+            création d&aposapplications web interactives et réactives. J&aposai de
+            l&aposexpérience de travail avec JavaScript, React, Node.js, Express, SQL Server,
+            HTML et CSS. J&aposapprends vite et je cherche toujours à élargir mes
+            connaissances et mes compétences. Je suis un joueur d&aposéquipe et je
+            suis ravi de travailler avec d&aposautres pour créer des applications
             incroyables.
           </p>
           <div className="flex flex-row justify-start mt-8">
